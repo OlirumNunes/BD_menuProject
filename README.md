@@ -10,16 +10,16 @@ CREATE  TABLE "public".menu (
 
 ## Values for loading the DB
 
-"Pepperoni pizza","https://painacozinha.com/wp-content/uploads/85.Pizza-de-Calabresa-com-Catupiry.webp",25
-"Beef stroganoff","https://guiadacozinha.com.br/wp-content/uploads/2030/10/estrogonofe-de-carne-tradicional.jpg",30
-"Caesar Salad","https://www.estadao.com.br/resizer/v2/Z725JFWNVFGX7NC7R3TDIRKVOI.jpeg?quality=80&auth=47f419b219bee557c23c67bb3f7f2fc9ab982b47943dcc4186e766e7bdd0b6b3&width=720&height=503&smart=true",22
-"Breaded chicken","https://www.saboresajinomoto.com.br/uploads/images/recipes/Frango_a_milanesa.webp",28
-"Sushi","https://ik.imagekit.io/fredmaiaarantes/FoodSite/taresushi/IMG-20200804-WA0092_a5d1mTRcn.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1644879450443&tr=w-1628%2Ch-1228%2Cfo-auto",40
-"Hamburguer","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIrzbIeDjaozbJQ1Tw8eaf0ZynAgzImP4bEA&s",20
-"Macaroni bolognese","https://areademulher.r7.com/wp-content/uploads/2022/04/macarrao-a-bolonhesa-receita-simples-e-facil-de-fazer.jpeg",23
-"Barbecue","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIU8dh5xi2tmB5_5uCYEL_BPZb9MAFc1Filw&s",35
-"Four Cheese Pizza","https://alimentos10.com.br/wp-content/uploads/2023/06/imeretian-khachapuri-cheese-lemon-side-view-1.jpg",27
-"Italian Soda","https://recipes.net/wp-content/uploads/2024/02/what-is-italian-soda-1707710575.jpg",60
-"Chocolate Cake","https://static01.nyt.com/images/2023/10/27/multimedia/27cakerex-plzm/27cakerex-plzm-superJumbo.jpg",80
-"Lasagna","https://www.allrecipes.com/thmb/nb2eEifCwlw1yc5gnXMwBy4BkXQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/23600-worlds-best-lasagna-DDMFS-2x1-1193-40ded59b2a224312b66bdafbb885adc0.jpg",27
-"French fries","https://www.tendaatacado.com.br/dicas/wp-content/uploads/2022/06/como-fazer-batata-frita-topo.jpg",20
+- "Pepperoni pizza","https://painacozinha.com/wp-content/uploads/85.Pizza-de-Calabresa-com-Catupiry.webp",25
+- "Beef stroganoff","https://guiadacozinha.com.br/wp-content/uploads/2030/10/estrogonofe-de-carne-tradicional.jpg",30
+- "Caesar Salad","https://www.estadao.com.br/resizer/v2/Z725JFWNVFGX7NC7R3TDIRKVOI.jpeg?quality=80&auth=47f419b219bee557c23c67bb3f7f2fc9ab982b47943dcc4186e766e7bdd0b6b3&width=720&height=503&smart=true",22
+- "Breaded chicken","https://www.saboresajinomoto.com.br/uploads/images/recipes/Frango_a_milanesa.webp",28
+- "Sushi","https://ik.imagekit.io/fredmaiaarantes/FoodSite/taresushi/IMG-20200804-WA0092_a5d1mTRcn.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1644879450443&tr=w-1628%2Ch-1228%2Cfo-auto",40
+- "Hamburguer","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIrzbIeDjaozbJQ1Tw8eaf0ZynAgzImP4bEA&s",20
+- "Macaroni bolognese","https://areademulher.r7.com/wp-content/uploads/2022/04/macarrao-a-bolonhesa-receita-simples-e-facil-de-fazer.jpeg",23
+- "Barbecue","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIU8dh5xi2tmB5_5uCYEL_BPZb9MAFc1Filw&s",35
+- "Four Cheese Pizza","https://alimentos10.com.br/wp-content/uploads/2023/06/imeretian-khachapuri-cheese-lemon-side-view-1.jpg",27
+- "Italian Soda","https://recipes.net/wp-content/uploads/2024/02/what-is-italian-soda-1707710575.jpg",60
+- "Chocolate Cake","https://static01.nyt.com/images/2023/10/27/multimedia/27cakerex-plzm/27cakerex-plzm-superJumbo.jpg",80
+- "Lasagna","https://www.allrecipes.com/thmb/nb2eEifCwlw1yc5gnXMwBy4BkXQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/23600-worlds-best-lasagna-DDMFS-2x1-1193-40ded59b2a224312b66bdafbb885adc0.jpg",27
+- "French fries","https://www.tendaatacado.com.br/dicas/wp-content/uploads/2022/06/como-fazer-batata-frita-topo.jpg",20
